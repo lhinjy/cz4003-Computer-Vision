@@ -16,6 +16,7 @@ Fles: Lab2.pdf, Lin_HuangJiayin_report.pdf
 
 
 Project: Text Image Segmentation for Optimal Optical character recognition 
+~~can i say i'm really proud of this~~
 
 Files: Project.pdf,  Lin_HuangJiayin_Project_Report.pdf, algorithm.py, tesseract.py, otsu_algorithm.py
 
